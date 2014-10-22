@@ -1,0 +1,5 @@
+Graffiti: a half-decent graph library with Ord vertices.
+
+A dead-simple graph library using
+
+  type Graph v = Map.Map v (Set.Set v)
